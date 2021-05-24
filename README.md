@@ -1,11 +1,13 @@
 # DecoratorJS
 ## decorators are simple!
 
+![](https://img.shields.io/badge/license-MIT-green)
+
 <br/>
 <br/>
 
 <p align="center">
-  <img style="max-height: 200px" src="https://github.com/keptt/DecoratorJS/blob/media/DecoratorJSLogo.png" />
+  <img style="max-height: 200px" src="https://github.com/keptt/decoratorjs/blob/media/DecoratorJSLogo.png" />
 </p>
 
 <br/>
@@ -74,7 +76,6 @@ To be honest, the abovementioned example is not the most concise one and clear o
 
 However, with this library it is now possible to use decorators in your JavaScript code easily.
 
-<br/>
 <br/>
 
 ### How it works
