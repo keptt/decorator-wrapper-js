@@ -1,5 +1,5 @@
 {
-  "name": "decoratorjs",
+  "name": "decorator-wrapper-js",
   "version": "0.0.0",
   "description": "Package that introduces simple decorator functionality",
   "main": "decorator.js",
