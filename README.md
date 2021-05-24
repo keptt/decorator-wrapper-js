@@ -1,4 +1,4 @@
-# DecoratorJS
+# DecoratorWrapperJS
 ## decorators are simple!
 
 ![](https://img.shields.io/badge/license-MIT-green)
