@@ -12,6 +12,11 @@
     "wrapper",
     "decoratorjs"
   ],
+  "homepage": "https://github.com/keptt/decorator-wrapper-js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/keptt/decorator-wrapper-js"
+  },
   "author": "keptt",
   "license": "MIT"
 }
