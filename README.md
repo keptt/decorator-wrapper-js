@@ -9,7 +9,7 @@
 <br/>
 
 <p align="center">
-    <a href="https://img.shields.io/badge/license-MIT-green">
+    <a href="https://github.com/keptt/decorator-wrapper-js">
         <img style="max-height: 200px" src="https://github.com/keptt/decorator-wrapper-js/blob/media/DecoratorWrapperJSLogo.png" />
     </a>
 </p>
