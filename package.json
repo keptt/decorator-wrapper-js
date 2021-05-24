@@ -1,6 +1,6 @@
 {
   "name": "decoratorjs",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "Package that introduces simple decorator functionality",
   "main": "decorator.js",
   "scripts": {
