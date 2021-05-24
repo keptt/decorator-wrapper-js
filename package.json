@@ -1,6 +1,6 @@
 {
   "name": "decorator-wrapper-js",
-  "version": "1.0.2-0",
+  "version": "1.0.2",
   "description": "Package that introduces simple decorator functionality",
   "main": "decorator.js",
   "scripts": {
