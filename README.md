@@ -84,7 +84,7 @@ However, with this library it is now possible to use decorators in your JavaScri
 Import the package
 
 ```javascript
-const decoratorjs = require('decoratorjs');
+const decoratorjs = require('decorator-wrapper-js');
 const dec = decoratorjs.dec;
 ```
 
@@ -224,7 +224,7 @@ Result is: 2
 
 Example:
 ```javascript
-const decoratorjs = require('decoratorjs');
+const decoratorjs = require('decorator-wrapper-js');
 const dec = decoratorjs.dec;
 
 dec.embed('firstDecorator', (...args) => console.log('before 1') // insert code executed before the funciton here
@@ -253,7 +253,7 @@ secondDecorator = dec.secondDecorator // undefined
 ### An example with syncronous functions
 
 ```javascript
-const decoratorjs = require('decoratorjs');
+const decoratorjs = require('decorator-wrapper-js');
 const dec = decoratorjs.dec;
 
 dec.firstDecorator = dec.spawn((...args) => console.log('before 1') // insert code executed before the funciton here
@@ -314,7 +314,7 @@ In order to use the code with async functions the library exposes the following 
 ### An example with async
 
 ```javascript
-const decoratorjs = require('decoratorjs');
+const decoratorjs = require('decorator-wrapper-js');
 const dec = decoratorjs.dec;
 
 function later(delay) {
