@@ -4,7 +4,7 @@
   "description": "Package that introduces simple decorator functionality",
   "main": "decorator.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": ""
   },
   "keywords": [
     "decorator",
