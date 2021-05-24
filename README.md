@@ -5,7 +5,7 @@
 <br/>
 
 <p align="center">
-  <img style="max-height: 200px" src="DecoratorJSLogo.png" />
+  <img style="max-height: 200px" src="https://github.com/keptt/DecoratorJS/blob/media/DecoratorJSLogo.png" />
 </p>
 
 <br/>
