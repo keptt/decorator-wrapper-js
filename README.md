@@ -1,13 +1,17 @@
 # DecoratorWrapperJS
 ## decorators are simple!
+[Home](https://github.com/keptt/decorator-wrapper-js)
 
 ![](https://img.shields.io/badge/license-MIT-green)
+
 
 <br/>
 <br/>
 
 <p align="center">
-  <img style="max-height: 200px" src="https://github.com/keptt/decorator-wrapper-js/blob/media/DecoratorWrapperJSLogo.png" />
+    <a href="https://img.shields.io/badge/license-MIT-green">
+        <img style="max-height: 200px" src="https://github.com/keptt/decorator-wrapper-js/blob/media/DecoratorWrapperJSLogo.png" />
+    </a>
 </p>
 
 <br/>
